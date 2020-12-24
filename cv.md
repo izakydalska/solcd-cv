@@ -1,6 +1,6 @@
 ### Iryna Zakydalska
 
-
+Phone: +380967806837
 
 Email: <i.zakydalska@gmail.com> 
 
