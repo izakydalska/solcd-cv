@@ -9,7 +9,8 @@ Skype: iryna.zakydalska
 
 #### Summary of Qualifications:
 
-- Good understanding of SDLC methodologies and STLC processes ■ Good knowledge of tracking tools like JIRA and Mantis 
+- Good understanding of SDLC methodologies and STLC processes
+- Good knowledge of tracking tools like JIRA and Mantis 
 - Basic understanding of HTML, CSS; basic knowledge of Chrome Dev Tools, Postman for API testing, GIT
 - A positive-thinking, dedicated and ultimate team player; patient and calm with an eye for detail; with the ability to work under the pressure
 - A knowledge-hungry learner, eager to meet challenges and quickly assimilate new concepts
